@@ -113,9 +113,13 @@ python train.py
 
 随机测试五个样本（此处简单展示两个）查看音频波形输出图像：
 
+想听听音频原声的朋友可以前往：output/samples/sample_0_wings_pred_wings.wav（GitHub不能正常显示音频）
+
 <audio src="./output/samples/sample_0_wings_pred_wings.wav"></audio>
 
 ![data1](./output/samples/sample_0_spectrogram.png)
+
+想听听音频原声的朋友可以前往：output/samples/sample_2_gummies_pred_gummies.wav（GitHub不能正常显示音频）
 
 <audio src="./output/samples/sample_2_gummies_pred_gummies.wav"></audio>
 
