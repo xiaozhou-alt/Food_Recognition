@@ -1,0 +1,11 @@
+# train.py代码是在Kaggle平台 GPU P100 上运行后，移植到本地的
+torch>=1.10.0
+torchaudio>=0.10.0
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+scikit-learn>=0.24.0
+tqdm>=4.60.0
+IPython>=7.0.0
+soundfile>=0.10.0

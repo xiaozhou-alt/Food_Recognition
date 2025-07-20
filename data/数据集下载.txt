@@ -1,0 +1,7 @@
+数据集获取请前往：
+Kaggle：
+Eating_Sound (kaggle.com)：
+https://www.kaggle.com/datasets/rexinshiminxiaozhou/eating-sound
+
+或阿里云天池官网比赛官网：
+https://tianchi.aliyun.com/competition/entrance/531887/information
